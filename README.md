@@ -35,4 +35,4 @@ Welcome to my GitHub portfolio! 🚀</p>
 
 <br/>
 <br/>
-- 📝 I regularly write articles on [https://medium.com/@hamzarahmoun](https://medium.com/@hamzarahmoun)
+- 📝 I regularly write articles on https://medium.com/@hamzarahmoun
