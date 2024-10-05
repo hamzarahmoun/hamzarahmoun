@@ -4,7 +4,7 @@
 
 I'm always learning and experimenting with new tools and frameworks to improve my skills and keep up with the latest industry trends.
 
-Welcome to my GitHub portfolio! 🚀</p>
+Welcome to my GitHub world! 🚀</p>
 
 <h3 align="center"></h3>
 
