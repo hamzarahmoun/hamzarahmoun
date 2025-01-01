@@ -35,4 +35,3 @@ Welcome to my GitHub world! 🚀</p>
 
 <br/>
 <br/>
-- 📝 I regularly write articles on https://medium.com/@nex3dstudio
