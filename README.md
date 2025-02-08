@@ -1,4 +1,4 @@
-<h1 class="heading-element" dir="auto">💫 About Me:</h1>
+<h1 class="heading-element" dir="auto">💫 About Me:</h1> 
 
 <p dir="auto">👋 Hi there! I'm Hamza Rahmoun, a dedicated front-end developer with a passion for creating responsive, user-friendly web applications. I love working with modern technologies like React, JavaScript, and CSS to bring ideas to life. My focus is on clean, efficient code and delivering seamless user experiences.
 
